@@ -4,12 +4,12 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #CEE3F5;
+  background-color: #b22ebe;
 }
 
 h1 {
   font-size: 100px;
-  color: #F8B5B6;
+  color: #d60408;
   position: relative;
 }
 
@@ -21,7 +21,7 @@ h1::before {
   color:#af3d50;
   width: 0%;
   overflow: hidden;
-  transition: all 0.1s;
+  transition: all 10s;
 }
 
 h1:hover::before {
